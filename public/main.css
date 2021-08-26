@@ -29,6 +29,10 @@
     color: #fff;
     box-sizing: border-box;
   }
+  .right{
+    margin: 20px;
+    font-size: 18px;
+  }
   .single-question {
     position: relative;
     width: 100%;
